@@ -2689,10 +2689,11 @@ body {
 }
 .cid-rbcxGsjvrJ {
   background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-rbcxGsjvrJ .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-rbcxGsjvrJ figcaption {
   position: relative;
