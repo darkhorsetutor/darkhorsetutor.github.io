@@ -3306,7 +3306,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -3318,24 +3318,24 @@
                 "title": "Translate your favourite songs",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "So, you are learning English, but find all the standard methods boring and not sure where to start? You can do a translation of your favourite English song! It's a great technique for learning colloquial English. The steps are: 1) Go to Google.com; 2) Type the name of your fovourite song + lyrics. Example of this is: \"Aerosmith - Dream On lyrics.\" This will locate for you the lyrics of the song. 3) Follow the link and print out the lyrics page, then translate to your language. What this exercise will help you do is learn some common phrases from your favourite songs, which you can use when talking to others! Fun and educational!",
+                "text": "So, you are learning English, but find all the standard methods boring and not sure where to start? You can do a translation of your favourite English song! It's a great technique for learning colloquial English. The steps are: 1) Go to Google.com; 2) Type the name of your favourite song + lyrics. Example of this is: \"Aerosmith - Dream On lyrics.\" This will locate for you the lyrics of the song. 3) Follow the link and print out the lyrics page, then translate to your language. What this exercise will help you do is learn some common phrases from your favourite songs, which you can use when talking to others! Fun and educational!",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
-                "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "VIDEO SLIDE",
+                "title": "Learn some fancy words",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "text": "Learning fancy words can give you a certain class! It will make you appear smart when you use them - just try not to appear too smart! To easily find fancy words for what you want to say, we turn to Google again: Type in Google \"synonyms to + whatever word you want to use.\" Example: \"synonyms to however\". Follow one of the links and you will find many ways to say the word. Usually synonyms can be used interchangeably. Some synonyms are old words and no one uses them anymore, so it may be a good idea to check if someone still uses these with a teacher or a tutor, or simply research on Google. Even if it would be hard to use the fancy words in speech with your international friends, you can use them to great effect in your writing, such as college essays!",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
