@@ -3318,12 +3318,12 @@
                 "title": "Translate your favourite songs",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "So, you are learning English, but find all the standard methods boring and not sure where to start? You can do a translation of your favourite English song! It's a great technique for learning colloquial English. The steps are: 1) Go to Google.com; 2) Type the name of your favourite song + lyrics. Example of this is: \"Aerosmith - Dream On lyrics.\" This will locate for you the lyrics of the song. 3) Follow the link and print out the lyrics page, then translate to your language. What this exercise will help you do is learn some common phrases from your favourite songs, which you can use when talking to others! Fun and educational!",
+                "text": "So, you are learning English, but find all the standard methods are boring and you're not sure where to start? You can do a translation of your favourite English song! It's a great technique for learning colloquial English. The steps are: 1) Go to Google.com; 2) Type the name of your favourite song + lyrics. Example of this is: \"Aerosmith - Dream On lyrics.\" This will locate for you the lyrics of the song. 3) Follow the link and print out the lyrics page, then translate to your language. What this exercise will help you do is learn some common phrases from your favourite songs, which you can use when talking to others! Fun and educational!",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -3340,8 +3340,8 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
-                "active": false,
-                "showButtons": true,
+                "active": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -3349,10 +3349,10 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "IMAGE SLIDE",
+                "title": "Reading books",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Reading English books is again a great way to learn some basic or advanced vocabulary! This is one of the ways that significantly advanced my own vocabulary. If you are a beginner and not sure which book may be good to read, go to a public library. Ask the librarian where you can find teenager section. Books for teenagers are easier to read than books for adults. They are also much shorter! Some of them are great stories too and have won awards! If you find reading teen books difficult, you can also try children's books. You may borrow books from library, or find a used books store and buy one or two. Importantly, when you are reading an English book and find a word you don't know, write it down and find its' meaning. Hang the paper with written words and translations on to your wall and look at them and try to memorize them. This is a good way to expand your vocabulary!",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
