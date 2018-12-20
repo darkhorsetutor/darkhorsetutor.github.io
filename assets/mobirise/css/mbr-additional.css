@@ -3164,7 +3164,7 @@ body {
 .cid-rcvuurDUgz {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron0.jpg");
+  background-image: url("../../../assets/images/jumbotron1.jpg");
 }
 .cid-rcvuwkIAIq {
   padding-top: 60px;
@@ -4334,7 +4334,7 @@ body {
 .cid-rc1Ujk8o6L {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron0.jpg");
+  background-image: url("../../../assets/images/jumbotron1.jpg");
 }
 .cid-rc1V0V1Yv4 {
   padding-top: 60px;
@@ -4414,7 +4414,7 @@ body {
 .cid-rc2aAtVbHz {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron0.jpg");
+  background-image: url("../../../assets/images/jumbotron1.jpg");
 }
 .cid-rc2bjGyMuK .modal-body .close {
   background: #1b1b1b;
@@ -5088,6 +5088,11 @@ body {
   height: 40px;
   border-radius: 50%;
 }
+.cid-rcMI3kGdux {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/-7201005-modified-2000x300.jpg");
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -5468,4 +5473,59 @@ body {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rcMFPhjcHN {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/9034001-2000x1500.jpg");
+}
+.cid-rcMFPhjcHN .list-group-item {
+  padding: .75rem 3.25rem;
+}
+.cid-rcMFPhjcHN .plan {
+  word-break: break-word;
+  position: relative;
+  max-width: 300px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-rcMFPhjcHN .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+}
+.cid-rcMFPhjcHN .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-rcMFPhjcHN .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-rcMFPhjcHN .plan-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-rcMFPhjcHN .plan-header,
+.cid-rcMFPhjcHN .plan-body {
+  background-color: #fff;
+}
+.cid-rcMFPhjcHN .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+.cid-rcMFPhjcHN .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+@media (max-width: 550px) {
+  .cid-rcMFPhjcHN .price-figure {
+    font-size: 4.25rem;
+  }
 }
