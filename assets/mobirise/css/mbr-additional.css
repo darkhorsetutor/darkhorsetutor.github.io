@@ -6714,3 +6714,26 @@ body {
     width: 100% !important;
   }
 }
+.cid-rejPcXJXNE {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rejPcXJXNE .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rejPcXJXNE .section-text {
+  padding: 2rem 0;
+}
+.cid-rejPcXJXNE .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rejPcXJXNE .inner-container {
+    width: 100% !important;
+  }
+}
